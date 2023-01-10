@@ -1,0 +1,16 @@
+.tbl{
+    border: 2px solid black;
+}
+
+table tr th{
+    border: 1px solid black;
+    background-color:#f0f8ff;
+}
+
+table tr td{
+    border: 1px solid black;
+}
+.container{
+    margin-top: 10 px;
+}
+
